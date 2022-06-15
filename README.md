@@ -2,7 +2,7 @@
 
 Writing manifests from scratch is pita. This extension provides comprehensive Backstage support to Visual Studio Code with built-in snippets for all well-known backstage manifests.
 
-![screencast](./images/recording.gif)
+![screencast](https://raw.githubusercontent.com/intility/vscode-backstage/main/images/recording.gif)
 
 Supports all the official kinds:
 
