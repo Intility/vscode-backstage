@@ -19,7 +19,7 @@ Supports all the official kinds:
 
 ## Getting started with the extension
 
-Snippets are triggered in yaml files with the following keyword "`kind: <Entity>`"
+[Install the extension from the marketplace](https://marketplace.visualstudio.com/items?itemName=Intility.vscode-backstage) or by searching for "backstage" in the extension tab directly inside VSCode. Snippets are triggered in yaml files with the following keyword "`kind: <Entity>`"
 
 ## Release Notes
 
