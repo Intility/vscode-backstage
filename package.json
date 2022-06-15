@@ -1,0 +1,26 @@
+{
+  "name": "vscode-backstage",
+  "publisher": "Intility",
+  "displayName": "Backstage Support",
+  "description": "Boost your productivity with backstage.io support",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "yaml",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/intility/vscode-backstage"
+  },
+  "icon": "images/backstage-logo-dark-bg.png"
+}
