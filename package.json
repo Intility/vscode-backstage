@@ -3,12 +3,25 @@
   "publisher": "Intility",
   "displayName": "Backstage Support",
   "description": "Boost your productivity with backstage.io support",
+  "author": "Intility",
+  "contributors": [
+    {
+        "name": "Emil Kjelsrud",
+        "email": "emil.kjelsrud@intility.no"
+    }
+  ],
+  "license": "MIT",
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.68.0"
   },
   "categories": [
     "Snippets"
+  ],
+  "keywords": [
+    "yaml",
+    "backstage",
+    "autocomplete"
   ],
   "contributes": {
     "snippets": [
@@ -22,5 +35,6 @@
     "type": "git",
     "url": "https://github.com/intility/vscode-backstage"
   },
+  "bugs": "https://github.com/intility/vscode-backstage/issues",
   "icon": "images/backstage-logo-dark-bg.png"
 }
