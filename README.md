@@ -1,4 +1,4 @@
-# Backstage support by Intility
+# Backstage support by Intility [![CI](https://github.com/Intility/vscode-backstage/actions/workflows/CI.yaml/badge.svg)](https://github.com/Intility/vscode-backstage/actions/workflows/CI.yaml)
 
 Writing manifests from scratch is pita. This extension provides comprehensive Backstage support to Visual Studio Code with built-in snippets for all well-known backstage manifests.
 
