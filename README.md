@@ -23,4 +23,4 @@ Supports all the official kinds:
 
 ## Release Notes
 
-See [CHANGELONG.md](./CHANGELOG.md)
+See [CHANGELOG.md](./CHANGELOG.md)
